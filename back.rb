@@ -24,5 +24,6 @@ def solution(s)
   #stackがからであるかを確認し空ならtrue
 end
 
-puts solution("{")
+
+puts solution("{]")
   
