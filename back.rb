@@ -25,5 +25,6 @@ def solution(s)
 end
 
 
+
 puts solution("{]")
   
