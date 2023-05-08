@@ -22,6 +22,7 @@ def solution(s)
   end
   stack.empty?
   #stackがからであるかを確認し空ならtrue
+  
 end
 
 
