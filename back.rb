@@ -20,6 +20,7 @@ def solution(s)
     end
     #ループを終了
   end
+  
   stack.empty?
   #stackがからであるかを確認し空ならtrue
   
